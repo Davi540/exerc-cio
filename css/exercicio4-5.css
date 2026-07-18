@@ -1,0 +1,46 @@
+
+.catalogo{
+    display: flex;
+    flex-direction:row;
+    flex-wrap: wrap;
+    justify-content: center;
+
+ 
+}
+
+.conteudo{
+  background-color: rgb(26, 26, 26);
+}
+
+.catalogo h2{
+    color:azure;
+    margin-left: 67px;
+    margin-top: 1px;
+    display: flex;
+    
+
+}
+.info-contato{
+display: flex;
+align-items: center;
+gap: 20px;
+}
+.tocador{
+  background-color: rgb(26, 26, 26);
+  margin-left: -800px;
+  margin-top: 100px;
+}  
+
+.tocador h2{
+    text-decoration: none;
+    display: flex;
+    justify-content: center;
+    color: aliceblue;
+}
+.tocador button{
+    text-decoration: none;
+    display: flex;
+    justify-content: center;
+    color: red;
+    background-color:rgb(27, 27, 27);
+}
